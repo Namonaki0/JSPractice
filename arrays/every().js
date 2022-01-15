@@ -1,8 +1,8 @@
 const ages = [12, 62, 23, 35, 19, 43];
 
-const check = ages.every((age) => age > 10);
+const checkAge = ages.every((age) => age > 10);
 
-console.log(check);
+console.log(checkAge);
 
 //* true
 
