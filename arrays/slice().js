@@ -1,3 +1,21 @@
+const names = ["Alfred", "James", "Sophie", "Megan", "Robert"];
+
+const slicedArray = names.slice(1, 4);
+
+console.log(slicedArray);
+
+//* ["James", "Sophie", "Megan"];
+
+const names = ["Alfred", "James", "Sophie", "Megan", "Robert"];
+
+const slicedArray = names.slice(-4, -1);
+
+console.log(slicedArray);
+
+//* ["James", "Sophie", "Megan"];
+
+//? array.slice(start, end);
+
 // -----------------------------------------------
 
 //? The slice() method returns selected elements in an array, as a new array.
