@@ -1,6 +1,6 @@
 //? HTML
 //* <button onclick="addNode()">add text node</button>
-//* <button onclick="normalize()">remove empty nodes</button>
+//* <button onclick="normalizeText()">remove empty nodes</button>
 //* <p id="output"></p>
 
 //? JS
